@@ -1,0 +1,19 @@
+.journal-form{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.invalid{
+    border: 1px solid red;
+    background: rgb(68, 6, 6)
+}
+.input-title{
+    border: none;
+    background: none;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    border-bottom: 1px solid #3333;
+     
+}

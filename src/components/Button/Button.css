@@ -1,0 +1,22 @@
+.button {
+    border-radius: 6px;
+ height: 40px;
+ 
+ width: 140px;
+    padding: 8px 30px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: inherit;
+    cursor: pointer;
+    transition: background 0.25s;
+    border: none;
+   
+  }
+  .button:hover {
+
+    background-color: aquamarine;
+  }
+.accent{
+    background: blue;
+
+}
